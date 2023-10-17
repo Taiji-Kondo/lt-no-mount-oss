@@ -1,60 +1,47 @@
 ---
 theme: apple-basic
-src: './pages/_template/intro.md'
+src: './pages/cover.md'
 ---
 
 ---
-src: './pages/_template/intro-image.md'
+src: './pages/objective.md'
 ---
 
 ---
-src: './pages/_template/center.md'
+src: './pages/about-oss-title.md'
 ---
 
 ---
-src: './pages/_template/tow-cols.md'
+src: './pages/about-oss.md'
 ---
 
 ---
-src: './pages/_template/image-left.md'
+src: './pages/about-oss-example.md'
 ---
 
 ---
-src: './pages/_template/image-right.md'
+src: './pages/end.md'
 ---
 
----
-src: './pages/_template/statement.md'
----
+<!-- これはノートです -->
 
----
-src: './pages/_template/bullets.md'
----
-
----
-src: './pages/_template/section.md'
----
-
----
-src: './pages/_template/fact.md'
----
-
----
-src: './pages/_template/quote.md'
----
-
----
-src: './pages/_template/images.md'
----
-
----
-src: './pages/_template/photo.md'
----
-
----
-src: './pages/_template/code.md'
----
-
----
-src: './pages/_template/end.md'
----
+- 目標
+- OSSとは
+  - 概要
+  - 例え
+- OSSを使うと何が嬉しいのか
+  - 箇条書き
+- OSSを使うときの注意点
+  - 箇条書き
+- OSSライセンスとは
+  - 概要
+  - 例え
+- OSSライセンス違反をすると...
+  - 箇条書き
+- OSSライセンスの種類
+  - 表
+- OSSライセンスの提示方法
+  - 箇条書き
+  - お役立ちライブラリ
+- まとめ
+  - 箇条書き

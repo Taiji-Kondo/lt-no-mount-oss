@@ -20,6 +20,22 @@ src: './pages/about-oss-example.md'
 ---
 
 ---
+src: './pages/oss-pros-title.md'
+---
+
+---
+src: './pages/oss-pros-1.md'
+---
+
+---
+src: './pages/oss-pros-2.md'
+---
+
+---
+src: './pages/oss-pros-3.md'
+---
+
+---
 src: './pages/end.md'
 ---
 

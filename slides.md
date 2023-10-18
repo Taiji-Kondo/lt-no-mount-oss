@@ -44,6 +44,18 @@ src: './pages/oss-cons.md'
 ---
 
 ---
+src: './pages/oss-license-title.md'
+---
+
+---
+src: './pages/oss-license.md'
+---
+
+---
+src: './pages/oss-license-agreement.md'
+---
+
+---
 src: './pages/end.md'
 ---
 

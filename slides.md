@@ -56,6 +56,14 @@ src: './pages/oss-license-agreement.md'
 ---
 
 ---
+src: './pages/oss-license-memorize.md'
+---
+
+---
+src: './pages/oss-license-kind.md'
+---
+
+---
 src: './pages/end.md'
 ---
 

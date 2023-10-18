@@ -64,6 +64,10 @@ src: './pages/oss-license-kind.md'
 ---
 
 ---
+src: './pages/oss-license-table.md'
+---
+
+---
 src: './pages/end.md'
 ---
 

@@ -68,6 +68,34 @@ src: './pages/oss-license-table.md'
 ---
 
 ---
+src: './pages/how-to-present-oss-license-title.md'
+---
+
+---
+src: './pages/how-to-present-oss-license.md'
+---
+
+---
+src: './pages/all-by-myself.md'
+---
+
+---
+src: './pages/good-news.md'
+---
+
+---
+src: './pages/license-webpack-plugin.md'
+---
+
+---
+src: './pages/license-webpack-plugin-pros.md'
+---
+
+---
+src: './pages/summary.md'
+---
+
+---
 src: './pages/end.md'
 ---
 

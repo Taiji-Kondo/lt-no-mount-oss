@@ -70,6 +70,6 @@ layout: default
     </tbody>
 </table>
 
-<div class="text-xs mt-6">※1 主に再配布時に明記する必要がある、インターネット経由での配信では不要なことが多い</div>
+<div class="text-xs mt-6">※1 主に再配布時に明記する必要がある、インターネット経由（WebアプリやSaas）での配信では不要なことが多い</div>
 <div class="text-xs">※2 インターネット経由での配信（WebアプリやSaas）、ソフトウェアの配布（アプリやダウンロード）を問わず明記</div>
 <div class="text-xs">※3 ソフトウェアの配布（アプリやダウンロード）時に明記</div>

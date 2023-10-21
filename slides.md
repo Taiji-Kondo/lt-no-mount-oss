@@ -64,6 +64,10 @@ src: './pages/oss-license-kind.md'
 ---
 
 ---
+src: './pages/prerequisite-knowledge.md'
+---
+
+---
 src: './pages/oss-license-table.md'
 ---
 
